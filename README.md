@@ -22,18 +22,24 @@ https://mailuc-my.sharepoint.com/personal/tirumala_mail_uc_edu/_layouts/15/strea
 The "Guard Your Wallet" app utilizes a well-structured navigation system designed to enhance user experience through seamless transitions between screens within the application. Starting from the HomePage, users are introduced to the app's main features and directed towards the LoginPage where they can either log in or register. Once authenticated, users arrive at the WelcomePage, which greets them by name and offers direct access to manage their subscriptions. From here, users can navigate to the AddSubscriptionPage to enter new subscription details, or move to the SubscriptionScreen to view a comprehensive list of all their subscriptions. The SubscriptionScreen also links to detailed views of individual subscriptions on the SubscriptionDetailsPage, where further actions can be taken. This intuitive navigation flow ensures that users can easily manage their subscriptions without hassle, enhancing the overall functionality and user-friendliness of the app. Here are screenshots:
 
 ## Screenshots 
+
+## Home Page: Introduces "Guard Your Wallet" with a call-to-action for users to log in and start managing their subscriptions.
 ![Homepage](image1.png)
 
-## Login Page
+## Login Page: Allows users to securely log into their account to access subscription management features.
+
 ![Loginpage](image2.png)
 
-## Welcome Page
+## Welcome Page: Greets users by name and offers a direct pathway to managing their subscriptions.
+
 ![Welcomepage](image3.png)
 
-## Addsubscription Page
+## Add Subscription Page: Provides a form for users to enter and submit new subscription details seamlessly.
+
 ![Addsubscription](image4.png)
 
-## Subscriptionscreendetails Page
+## Subscription Details Page: Displays detailed information about a specific subscription, allowing users to view or modify subscription data.
+
 ![Subscriptionscreendetails](image5.png)
 
 
