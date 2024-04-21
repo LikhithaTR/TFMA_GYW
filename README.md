@@ -32,15 +32,15 @@ The "Guard Your Wallet" app utilizes a well-structured navigation system designe
 
 ## Welcome Page: Greets users by name and offers a direct pathway to managing their subscriptions.
 
-![Welcomepage](image3.png)
+![Welcomepage](image5.png)
 
 ## Add Subscription Page: Provides a form for users to enter and submit new subscription details seamlessly.
 
-![Addsubscription](image4.png)
+![Addsubscription](image3.png)
 
 ## Subscription Details Page: Displays detailed information about a specific subscription, allowing users to view or modify subscription data.
 
-![Subscriptionscreendetails](image5.png)
+![Subscriptionscreendetails](image4.png)
 
 
 
